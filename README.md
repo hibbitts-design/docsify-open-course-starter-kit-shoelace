@@ -6,7 +6,7 @@
 
 > This is a starter kit to create an open [Docsify](https://docsify.js.org) course site, supplemented with the [Shoelace](https://shoelace.style/) library of web components for the course reminders area.
 
-📸 Docsify Open Course Screenshot Shoelace
+📸 Docsify Open Course Shoelace Screenshot
 ---
 ![ Docsify Open Course Starter Kit Shoelace](screenshot.jpg)
 _Figure 1. Docsify Open Course Starter Kit Shoelace. Explore a demo at [hibbitts-design.github.io/docsify-open-course-starter-kit-shoelace/](https://hibbitts-design.github.io/docsify-open-course-starter-kit-shoelace/)_
